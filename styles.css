@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sky {
+  background-image: linear-gradient(#f3badb, #f6d19c);
+  width: 100%;
+  height: 80vh;
+}
