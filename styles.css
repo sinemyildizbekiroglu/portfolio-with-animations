@@ -47,3 +47,42 @@ body {
   bottom: 60%;
   margin-left: 40%;
 }
+
+#javascript {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 55%;
+}
+
+#react {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 43%;
+}
+
+#graphql {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 31%;
+}
+
+#air-balloon {
+    width: 10%;
+    bottom: 10%;
+}
+
+.about-me {
+    height: 600px;
+    background-color: #69d31d;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+}
+
+
+
+
